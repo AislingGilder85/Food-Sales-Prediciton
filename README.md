@@ -1,11 +1,11 @@
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Increase sales by selling the right item at the right locations
+## An exploration of the relationship between item types and outlet sales
 
-**Author**: 
+Author: Aisling Gilder 
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+Locations have limited space and must use it wisely to maximise profits. Do larger outlets sell more meat or household goods? Do smaller locations sell more soft drinks or vegatables? This data exploration and the model derived from it will attempt to increase sales by detecting the highest selling categories per locaiton type.
 
 
 ### Data:
