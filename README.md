@@ -5,7 +5,7 @@ Author: Aisling Gilder
 
 ### Business problem:
 
-Locations have limited space and must use it wisely to maximise profits. Do larger outlets sell more meat or household goods? Do smaller locations sell more soft drinks or vegatables? This data exploration and the model derived from it will attempt to increase sales by detecting the highest selling categories per locaiton type.
+Locations have limited space and must use it wisely to maximise profits. Do larger outlets sell more meat or household goods? Do smaller locations sell more soft drinks or vegatables? This data exploration and the model derived from it will attempt to increase sales by detecting the higher selling categories per location type.
 
 
 ### Data:
